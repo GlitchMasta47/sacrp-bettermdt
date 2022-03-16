@@ -1,0 +1,8 @@
+{
+  "name": "bettermdt",
+  "version": "1.0.0",
+  "description": "improved frontend for sacrp's custom cad mdt system for easier dispatching",
+  "repository": "https://github.com/glitchmasta47/sacrp-bettermdt.git/",
+  "author": "GlitchMasta47",
+  "license": "GPL-3.0"
+}
